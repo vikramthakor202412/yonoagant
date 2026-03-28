@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Sitemap link Google ko batane ke liye
+Sitemap: https://yonoagant.com/sitemap.xml
+
